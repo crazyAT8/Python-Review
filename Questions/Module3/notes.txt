@@ -1,0 +1,15 @@
+Title: Python Essentials 1 Module 3 Test with explanation
+URL: https://www.youtube.com/watch?v=bwB3et9eUfc&t=148s
+
+
+
+
+15. What is the output?
+
+t = [[3 - i for i in range(3)] for j in range(3)]
+s = 0
+for i in range(3):
+    s += t[i][i]
+print(s)
+
+
