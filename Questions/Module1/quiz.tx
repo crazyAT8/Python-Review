@@ -1,0 +1,53 @@
+Python Essentials 1 Module 1 Quiz with explanation
+URL: https://www.youtube.com/watch?v=-y1i7zN6Djs&list=PLTYALJawAnSC65Xkv6NL08CUSDJ8vioTM
+
+
+1. Python is an example of:
+    o a high-level programming language  *
+    o a machine language 
+    o a natural language 
+
+2. A complete set of known commands is called:
+    o a low-level list 
+    o an instruction list   *
+    o a machine list  
+    
+3. What is a source code? 
+    o Machine code executed by computers 
+    o A program written in a high-level programming language  *
+    o Another name for the source file
+
+4. What do you call a computer program which directly executes written in a programming language? 
+    o A compiler
+    o An interpreter
+    o A translator
+
+5. What Python version is covered in this sourse? 
+    o 2
+    o 1
+    o 3 *
+
+6. What is CPython?
+    o The default implementation of the Python programming language     *
+    o Another name for Cython, a superset of the Python programming language 
+    o A compiled language used to perform high-level programming functions
+
+7. What is IDLE? 
+    o A version of Python 
+    o An acronym that stands for Interactive Development and Learning Extension 
+    o An acronym that stands for Integrated Development and Learning Environment for Python *
+
+8. What do you call a tool that lets you launch your code step-by-step and inspect it at each moment of execution?
+    o An editor 
+    o A console
+    o A debugger    *
+
+9. How did Python, the programming language, get its name? 
+    o Guido van Rossum named it after the Pythonidae - a family of large, nonvenomous snakes 
+    o Guido van Rossum named it to honor Python of Catana, a dramatic poet of the time of Alexander the Great 
+    o Guido van Rossum named it to honor Monty Python's Flying Circus, a BBC comedy series popular in the 1970s *
+
+10. Which of the following is an example of a Python file extension?
+    o P 
+    o pi 
+    o py *
